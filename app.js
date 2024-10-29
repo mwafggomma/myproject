@@ -1,3 +1,4 @@
-let one = "osama";
 
-console.log(one)
+
+let one = "osama";
+console.log(one);
